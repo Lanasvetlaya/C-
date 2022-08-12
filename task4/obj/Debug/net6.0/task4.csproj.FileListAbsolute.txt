@@ -1,0 +1,15 @@
+/home/svetlana/УЧЁБА/GitHub/C-/task4/obj/Debug/net6.0/task4.csproj.AssemblyReference.cache
+/home/svetlana/УЧЁБА/GitHub/C-/task4/obj/Debug/net6.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/svetlana/УЧЁБА/GitHub/C-/task4/obj/Debug/net6.0/task4.AssemblyInfoInputs.cache
+/home/svetlana/УЧЁБА/GitHub/C-/task4/obj/Debug/net6.0/task4.AssemblyInfo.cs
+/home/svetlana/УЧЁБА/GitHub/C-/task4/obj/Debug/net6.0/task4.csproj.CoreCompileInputs.cache
+/home/svetlana/УЧЁБА/GitHub/C-/task4/bin/Debug/net6.0/task4
+/home/svetlana/УЧЁБА/GitHub/C-/task4/bin/Debug/net6.0/task4.deps.json
+/home/svetlana/УЧЁБА/GitHub/C-/task4/bin/Debug/net6.0/task4.runtimeconfig.json
+/home/svetlana/УЧЁБА/GitHub/C-/task4/bin/Debug/net6.0/task4.dll
+/home/svetlana/УЧЁБА/GitHub/C-/task4/bin/Debug/net6.0/ref/task4.dll
+/home/svetlana/УЧЁБА/GitHub/C-/task4/bin/Debug/net6.0/task4.pdb
+/home/svetlana/УЧЁБА/GitHub/C-/task4/obj/Debug/net6.0/task4.dll
+/home/svetlana/УЧЁБА/GitHub/C-/task4/obj/Debug/net6.0/ref/task4.dll
+/home/svetlana/УЧЁБА/GitHub/C-/task4/obj/Debug/net6.0/task4.pdb
+/home/svetlana/УЧЁБА/GitHub/C-/task4/obj/Debug/net6.0/task4.genruntimeconfig.cache
