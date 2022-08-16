@@ -1,0 +1,15 @@
+/home/svetlana/УЧЁБА/GitHub/C-/task10/bin/Debug/net6.0/task10
+/home/svetlana/УЧЁБА/GitHub/C-/task10/bin/Debug/net6.0/task10.deps.json
+/home/svetlana/УЧЁБА/GitHub/C-/task10/bin/Debug/net6.0/task10.runtimeconfig.json
+/home/svetlana/УЧЁБА/GitHub/C-/task10/bin/Debug/net6.0/task10.dll
+/home/svetlana/УЧЁБА/GitHub/C-/task10/bin/Debug/net6.0/ref/task10.dll
+/home/svetlana/УЧЁБА/GitHub/C-/task10/bin/Debug/net6.0/task10.pdb
+/home/svetlana/УЧЁБА/GitHub/C-/task10/obj/Debug/net6.0/task10.csproj.AssemblyReference.cache
+/home/svetlana/УЧЁБА/GitHub/C-/task10/obj/Debug/net6.0/task10.GeneratedMSBuildEditorConfig.editorconfig
+/home/svetlana/УЧЁБА/GitHub/C-/task10/obj/Debug/net6.0/task10.AssemblyInfoInputs.cache
+/home/svetlana/УЧЁБА/GitHub/C-/task10/obj/Debug/net6.0/task10.AssemblyInfo.cs
+/home/svetlana/УЧЁБА/GitHub/C-/task10/obj/Debug/net6.0/task10.csproj.CoreCompileInputs.cache
+/home/svetlana/УЧЁБА/GitHub/C-/task10/obj/Debug/net6.0/task10.dll
+/home/svetlana/УЧЁБА/GitHub/C-/task10/obj/Debug/net6.0/ref/task10.dll
+/home/svetlana/УЧЁБА/GitHub/C-/task10/obj/Debug/net6.0/task10.pdb
+/home/svetlana/УЧЁБА/GitHub/C-/task10/obj/Debug/net6.0/task10.genruntimeconfig.cache
